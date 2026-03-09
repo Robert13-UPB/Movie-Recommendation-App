@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Inception",
+        "genre": ["Sci-Fi"]
+    },
+    {
+        "title": "The Dark Knight",
+        "genre": ["Action"]
+    },
+    {
+        "title": "Interstellar",
+        "genre": ["Sci-Fi"]
+    },
+    {
+        "title": "Pulp Fiction",
+        "genre": ["Crime"]
+    },
+    {
+        "title": "Disturbia",
+        "genre": [ "Thriller"]
+    },
+    {
+        "title": "The Conjuring",
+        "genre": ["Horror"]
+    },
+    {
+        "title": "SuperBad",
+        "genre": ["Comedy"]
+    },
+    {
+        "title": "The Shawshank Redemption",
+        "genre": ["Drama"]
+    }
+]
